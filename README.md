@@ -40,6 +40,4 @@ LinkedIn:
 https://www.linkedin.com/in/ricardo-chies-087557216/
 
 E-mail:
-ricardochies5@gmail.com
-
-
+chies.dev@gmail.com
